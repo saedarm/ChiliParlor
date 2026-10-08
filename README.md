@@ -3,8 +3,8 @@
 A short-order arcade game set in a Cincinnati chili parlor. Tickets slide in across the top: 3-ways, 4-ways, 5-ways, cheese coneys and double-deckers. You build each order in the right stacked order before the customer walks out. Ladle the chili carefully, because spills make a mess, and three puddles brings the health inspector.
 
 Written in Go with [Ebiten](https://ebitengine.org). Every sprite and sound is generated in code, so there are no asset files.
+<img width="1956" height="588" alt="image" src="https://github.com/user-attachments/assets/2cb7758d-0f19-466d-aa46-b8d6bb83b08f" />
 
-![Main menu, a cheese coney in progress, and the health inspector walking in](screenshot.png)
 
 ## Play
 
